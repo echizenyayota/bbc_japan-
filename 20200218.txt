@@ -7,15 +7,20 @@ https://www.youtube.com/watch?v=ukmF1fDdcKA
 This is the BBC home service.Here is the news and this is Alebert Adele reading it.Japan’s long thereated aggression in the Far East began tonight with air attacks on United States naval bases in the Paciffic.
 
 - What “Here is the news” means? I would like you to translate it into Japanese directly.
-- Alebert says “Japan’s long thereated aggression in the Far East”. I would like you to say it in other way.
+→ 「ここでニュースです」
+- Alebert says “Japan’s long thereated aggression in the Far East”. I would like you to say it in other way. 
+→ Japan's invasion in the Far East began tonight
 - Why doesn’t he use the word of “the” before “United States naval bases”?
+→ Japan Air Force attacks the naval base
 
 ### B 0:14 - 0:25
 
 Fresh reports are coming in every minute. The latest facts of the situation are these.Messages from Tokyo say the Japan has announced a formal declaration of war against both United States and Britain.
 
-- Why does he use “the” before Japan? I guess that the countries which have “the” before the name of the country are those with strong independence of each state or kingdom.
+- Why does he use “the” before Japan? I guess that the countries which have “the” before the name of the country are those with strong independence of each state or kingdom. 
+→ 連合国の敵は日本だけでなく他の国もあり、文脈上日本であることを特定しなければならないため
 - Why doensn’t he use “the” before United States?
+→ 前に"both"がかかっているため
 - What is the difference between Britain and “The UK”?
 
 ### C 0:26 - 0:47
