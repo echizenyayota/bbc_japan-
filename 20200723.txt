@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=glK2V-7DJD8
 
 https://hackmd.io/KzxDL0hCSiqReM7o3nEQ4A?view#3-Covid-19-The-office-after-lockdown---6-Minute-English
 
+https://hackmd.io/EWW4Br-MSzmUZGj1BGETJA#3-Covid-19-The-office-after-lockdown---6-Minute-English
+
 
 ### A 0:06 - 0:10
 
@@ -44,3 +46,16 @@ Okay Sam, We’ll find out later if you were right. Now, as employees slowly ret
 ### J 1:56 - 2:21
 
 The technology that we are offering is using Bluetooth wristbands or tags that people are wearing within the workplace which detect proximity events. When the proximity events has been recorded it’s been saved by the company in case they need to, further down the line, retrace the steps of a certain preson who has been declared as infected and inform anyone else may have been in contact with.
+
+### K 2:22 - 2:44
+
+One important way to control Coronavirus involves contact tracing. This means someone who tests positive for the disease informs everyone else they’ve been in contact with. Microshare’s system for this uses Bluetooth technology that allows computers, mobile phohe and other devices to communicate with each other without being conected by wires.
+
+### L 2:45 - 2:55
+
+Employees wear Bluetooth response which register when workers come into close proximity how near a person is to another person.
+
+### M 2:56 - 3:04
+
+Anyone who has been close to a workmate will then known they have to take action if that person is found to have later down the line in the future.
+
