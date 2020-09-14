@@ -4,6 +4,8 @@ https://www.bbc.com/news/health-53741966
 
 https://hackmd.io/bHQWw_2BToGQHyfdJdxUjQ#2-Coronavirus-How-will-the-world-vaccinate-seven-billion
 
+https://hackmd.io/DDDDuk3ZRL6hCxOmzyk85g?view#2-Coronavirus-How-will-the-world-vaccinate-seven-billion
+
 ### A
 
 Teams across the world are working to develop a vaccine that will be effective against.
@@ -38,3 +40,10 @@ The international vaccines alliance - Gavi - is urging countries to start thinki
 
 Seth Berkley, Gavi’s CEO, says one of the biggest hurdles he’s facing is so-called “vaccine nationalism”. “I think we need all countries to be thinking about this in a globally minded way, partially because it’s the right thing to do but also because it’s a self-interest issue,” he says. "If you have large reservoirs of virus circulating in surrounding countries, you can’t go back to your normal trade, travel or movement of people. It’s really important to have that mindset: we’re not safe, unless everybody is safe."
 
+### H
+
+As well as trying to make sure developing countries get access to the right vaccines, Mr Berkley has to think about the more prosaic aspects of vaccine roll-out, including whether or not there are enough glass vials in the world. There have been reports of a potential bottleneck in medical glass production.
+
+### I
+
+"We were worried about that," Mr Berkley admits, “so we went ahead and purchased enough vials for two billion doses, that’s the number of doses we hope to have ready by the end of 2021.” If glass vials are a potential problem, then so are fridges, since most vaccines need to be kept at low temperatures.
