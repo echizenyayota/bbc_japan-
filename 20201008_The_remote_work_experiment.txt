@@ -4,6 +4,8 @@ https://www.bbc.com/worklife/article/20200710-the-remote-work-experiment-that-ma
 
 https://hackmd.io/pq8W8BE3SMO7g3P2IVViUg?view#2-The-remote-work-experiment-that-upped-productivity-13
 
+https://hackmd.io/6RPbOHCbRS6Yg60iuj0QTg?view#2-The-remote-work-experiment-that-upped-productivity-13
+
 A
 For some, working from home is distracting and draining. But one pioneering study that has new relevance found that working from home one day a week boosted output by 13%.
 
@@ -38,5 +40,51 @@ J
 Then the two teams were tracked. It was easy to do, as these workers had repetitive, straightforward tasks that could easily be quantified, and whose productivity could easily be measured – making bookings in the system or making phone calls, for example.
 
 Nine months passed, and Bloom and Liang discovered workers were 13% more productive at home. That surprised Bloom, who was expecting that efficiency might have dipped, which would have been the trade-off to saving money on office space.
+
+K
+Of that 13% increased output, around 4% of it came from workers being able to cram in more tasks per minute due to fewer distractions.Bloom says one employee said she was relieved to be spared watching her cubicle-mate clip her toenails at her desk.)
+
+The remaining 9% was attributed to workers actually working more minutes per shift. Bloom says this is because commutes were eliminated entirely, lunch breaks were shorter and fewer workers took sick days.
+
+L
+After the nine-month-long experiment, Liang ended up rolling out a WFH option permanently. Bloom says he re-interviewed the people who worked from home during the study and then worked from home again after it became policy.
+
+He said of that group, half of the workers changed their tune, saying it was harder this time around, reporting feelings of isolation. But for the other half who remained at home, Bloom says they got even more productive: “their productivity went up by over 20%.”
+
+M
+Bloom’s data suggests a staff could become much more productive while working from home long term – but it’s not so straightforward. In the Ctrip experiment, there were caveats as to who could take part in the first place.
+
+Participants had to meet three requirements: have no kids, have a room that wasn’t their bedroom and have quality broadband internet on equipment the firm installed for them at home. So there’s no guarantee that, say, parents working from home or those without access to fast internet would see those productivity boosts.
+
+N
+Lynda Grattan, a professor at London Business School who specialises in the future of work, flags up other points; Bloom’s experiment was easy to carry out because it was essentially happening at a call centre. “We have no proper data on the productivity of knowledge workers when they’re based at home,” she says. (In other words, workers whose day-to-day isn’t as repetitive with countable tasks.)
+
+However, she says that in her experience with executives during the pandemic, most have said their knowledge workers have become more productive.
+
+O
+Grattan also highlights the inequality that becomes visible with remote work. It’s harder to be productive when you’re in a less-than-ideal living situation, like a cramped flat with no home office. Remember, those in Bloom’s study had a room to work in that wasn’t their bedroom. For many people, that is simply not the case.
+
+P
+There’s also the question of the effects of physically seeing colleagues. It’s an important consideration, because if large-scale working from home becomes a reality, you may never see your colleagues in person again. Your day to day could just be Zoom calls – or even virtual on-screen avatars that replace your face, says Grattan.
+
+Q
+But it’s important to have those face-to-face interactions, says Grattan. She doesn’t think all offices in the world could do what Ctrip did.
+
+She says that in many offices “serendipity is important: bumping into people, they’re seeing people in the corridor. Quite a lot of the ways that we make decisions in organisations aren’t made in meetings. They’re made in the corridors”.
+
+R
+Eddie Obeng, founder of Pentacle, a virtual business school, say he’s concerned about remote workers’ feelings of isolation and loneliness, in the absence of those important personal interactions. It’s a point reinforced by Christy Johnson, who runs a US-based consulting company staffed entirely by remote workers. She says that isolation was the biggest source of staff turnover during her first year.
+
+She tries to organise annual in-person meetings to compensate for this loss of in-person interaction that could potentially weaken morale or slow productivity. She also tries to replicate ad-hoc conversations on Friday afternoons about people’s fun plans for the weekend, in the way people would speak on a Friday afternoon in a real office.
+
+S
+Even Bloom says that that one day a week in the office is vital for team cohesion and human interaction.
+
+T
+Still, he thinks that the gains we could get from widespread WFH – pandemic or not – are important, and the pros outweigh the cons. “In the long run, I think it’s huge.
+
+Imagine: we go to something like, 20% of our days are spent working from home. That’s 20% less commuting. That’s the ability to live further out of city centres to reorganise our lives [and] have some quiet tranquillity.
+
+
 
 

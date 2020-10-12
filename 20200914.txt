@@ -8,6 +8,8 @@ https://hackmd.io/wOKYQMvtRY-CKoN59caXNA#2-Covid-19-How-to-travel-safely-on-the-
 
 https://hackmd.io/DFWUI52rQeqafvBBr_XR3w?view#2-Covid-19-How-to-travel-safely-on-the-bus-train-and-subway
 
+https://hackmd.io/OpmhWeHkSYC7Sg-_kT1Gwg#2-Covid-19-How-to-travel-safely-on-the-bus-train-and-subway
+
 A
 Apart from the obvious precautions, what can you do to reduce your risk of catching or spreading the coronavirus on public transport?
 
@@ -35,6 +37,17 @@ But there are also less obvious measures that are worth knowing. Insights from t
 G
 With a respiratory disease like Covid-19, the more people breathing, coughing and talking into the same air as you in a confined space, the more chance there is of being infected by the virus.
 
+H
+If you can cycle, walk or ride a scooter outside to get to work, that’s your best option as there is more space to keep your distance from others.
+
+I
+Cars are obviously personally safer too, provided you stick to travelling with those in your own household. But if everyone drives it will lead to a “tragedy of the commons” effect of more traffic, and greater environmental cost, so it’s difficult to recommend as a socially responsible choice. “Cars are very inefficient in using the urban infrastructure. If we all move in a car, nobody moves,” says Carlo Ratti, director of the Senseable City Lab at MIT in Cambridge, Massachusetts.
+
+J
+If travelling by train, bus and subway, one factor to consider when plotting your route is how well your method of transport is ventilated, according to Nick Tyler, a transport researcher at University College London, who has modelled the way that the virus propagates through buses. “Outside, in the open air, droplets are dissipated in the air and the wind,” he explains“Once we’re inside, you get much less movement.”
+
+K
+Designs differ, but the more windows the better. For this reason, a deep subway is more difficult to ventilate than a train or bus at the surface. According to a 2018 study by Lara Gosce at University College London, people who used the London underground regularly were more likely to suffer flu-like symptoms than those that didn’t.
 
 
 
