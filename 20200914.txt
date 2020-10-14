@@ -10,6 +10,8 @@ https://hackmd.io/DFWUI52rQeqafvBBr_XR3w?view#2-Covid-19-How-to-travel-safely-on
 
 https://hackmd.io/OpmhWeHkSYC7Sg-_kT1Gwg#2-Covid-19-How-to-travel-safely-on-the-bus-train-and-subway
 
+https://hackmd.io/WT1XLXqSRYGe_8Dp0vjL3g?both#2-Covid-19-How-to-travel-safely-on-the-bus-train-and-subway
+
 A
 Apart from the obvious precautions, what can you do to reduce your risk of catching or spreading the coronavirus on public transport?
 
@@ -48,6 +50,19 @@ If travelling by train, bus and subway, one factor to consider when plotting you
 
 K
 Designs differ, but the more windows the better. For this reason, a deep subway is more difficult to ventilate than a train or bus at the surface. According to a 2018 study by Lara Gosce at University College London, people who used the London underground regularly were more likely to suffer flu-like symptoms than those that didn’t.
+
+L
+Generally, public transport ventilation systems are less effective than those on aeroplanes. The air in planes is recirculated through sophisticated HEPA (High Efficiency Particulate Air) filters every few minutes, which should screen out most viral particles.
+
+“Aircraft ventilation gets a very bad press in many ways. It’s actually one of the best systems you can find,” says Tyler.
+
+And unlike many trains and buses, the air flow travels directly from the ceiling to the floor. This means that droplets will be pushed to the ground, away from hands and faces, more rapidly.
+
+M
+A New York subway car, by contrast, pushes air horizontally, and uses filters with a lower performance than planes, rated seven out of a scale of 20 in terms of screening efficiency. (You can dive deeper into the technical specs of filters in this interactive guide to the ventilation system on the NYC subway, which also shows the path of viral particles through the carriage.)
+
+
+
 
 
 
