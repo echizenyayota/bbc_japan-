@@ -12,6 +12,8 @@ https://hackmd.io/OpmhWeHkSYC7Sg-_kT1Gwg#2-Covid-19-How-to-travel-safely-on-the-
 
 https://hackmd.io/WT1XLXqSRYGe_8Dp0vjL3g?both#2-Covid-19-How-to-travel-safely-on-the-bus-train-and-subway
 
+https://hackmd.io/tdCen4e3TdqneHKU4KBNwA#2-Covid-19-How-to-travel-safely-on-the-bus-train-and-subway
+
 A
 Apart from the obvious precautions, what can you do to reduce your risk of catching or spreading the coronavirus on public transport?
 
@@ -61,7 +63,17 @@ And unlike many trains and buses, the air flow travels directly from the ceiling
 M
 A New York subway car, by contrast, pushes air horizontally, and uses filters with a lower performance than planes, rated seven out of a scale of 20 in terms of screening efficiency. (You can dive deeper into the technical specs of filters in this interactive guide to the ventilation system on the NYC subway, which also shows the path of viral particles through the carriage.)
 
+N
+When assessing your chosen form of transport, it is worth considering how much talking goes on inside – and how loudly.
 
+O
+Noisy environments, where people must lean in and shout to be heard, are higher risk than quieter spaces. It’s thought to be one of the reasons why nightclubs, bars or meat-packing plants have experienced high levels of contagion.
+
+P
+So, a cacophonous train carriage with singing sports fans would therefore pose more risk than a bus of silent commuters reading their phones.This diagram, recently published by researchers in the BMJ, captures these relative risks:
+
+Q
+It’s an often-quoted piece of New Yorker wisdom: “never get on an empty subway car”. The implication is that you don’t want to find why everyone has shunned that carriage – at best, a bad smell; at worst, you might get assaulted.
 
 
 
