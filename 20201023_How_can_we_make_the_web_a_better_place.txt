@@ -2,6 +2,8 @@
 
 https://hackmd.io/ETgKWJc7Q2GLVJTFGiIudw?view#2-How-can-we-make-the-web-a-better-place---6-Minute-English
 
+https://hackmd.io/yDaPJCwjRiuCDM8IMIlxWw?view#2-How-can-we-make-the-web-a-better-place---6-Minute-English
+
 https://www.youtube.com/watch?v=wMQjmpVgor8
 
 A 0:06 - 0:11
@@ -53,5 +55,26 @@ Exchaneges between humans and the computer can be seen in social media networks,
 
 P 3:01 - 3:10
 This view of technology sees internet as an ecosystem - a complex partner relationships and mutual influences that exists between all living things and their enviroment.
+
+Q 3:11 - 3:18
+One ongoing and topical example of websites helpfully interacting with humans is the Covid tracing app.
+
+R 3:19 - 3:29
+You might think the mobile phone app, which tracks movements and contact between people to combat coronavirus, would be useful practical application of intenet technology.
+
+S 3:30 - 3:39
+But as Carly Kind, Director the Ada Lovelance Institute in Cambridge, explained to BBC World Services’s Degital Planet, things are never that straightforward.
+
+T 3:40 - 4:04
+Actually, there’re a lot of more fundamental questions that haven’t been answered yet such as : is Bluetooth even as equipment adequate mechanism for doing what it says on the tin, which is detecting contact between two people?
+
+The trial so far show that it is not actually that great and so, do we know for sure that these apps work and they work in the ways we want them to?Do we get the public health information that we need?
+
+U 4:05 - 4:12
+Apps like this designed to support public health - services to improve standard of health of a coutry’s general population.
+
+
+
+
 
 
