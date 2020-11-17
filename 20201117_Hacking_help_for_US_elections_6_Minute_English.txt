@@ -1,0 +1,41 @@
+Hacking help for US elections - 6 Minute English
+
+https://www.youtube.com/watch?v=Pzq2slM4Wu4
+
+https://hackmd.io/Ly3vXBwAR1SCFAbKO3fs_g?view#2-Hacking-help-for-US-elections---6-Minute-English
+
+A 0:07 - 0:18
+Hello! This is 6 minute English from BBC Learning English. I’m Rob(And I’m Sam.) When it comes to US Presidential Elections, some are more dramatic than others.
+
+B 0:19 - 0:26
+But few elections have been as controversial as this November’s contest between current President Trump and his Democratic rival, Joe Biden.
+
+C 0:27 - 0:36
+In America, when many votes are cast digitally, there’s a risk of cyber-attacks on election day and with so much depending on the result, US election offfcials are worried.
+
+D 0:37 - 0:53
+In this programme, we’ll be hearing about plans to prevent election cyber-attacks which involve election officials working with a very unusual group : volunteer hackers. Volunteers are people who work willingly without being paid.
+
+E 0:54 - 1:01
+And hackers are people who break into computer system without permission in order to find information or do something illegal.
+
+F 1:02 - 1:07
+But the cyber-attacks from huckers are not only threat to fair and democratic elections.
+
+G 1:08 - 1:39
+In 2000, the presidential race between Al Gore and George W.Bush ended in recounts and disputes over missing votes. Geroge Bush became the first modern President to win the election despite gaining fewer popular votes than his opponents - but how many fewer?
+
+That’s a quiz question - how many fewer votes did Bush win than Gore in the 2000 American presidential election? Was it a) half a million votes, b) a million votes or c) two million votes.
+
+H 1:40 - 1:42
+I’ll say b) a million votes.
+
+I 1:43 - 1:55
+Ok, we’ll find out later. Now the project Sam mentioned, where official administrators teem up with expert voluteers to keep the election secure, is called The Election Cyber Surge.
+
+J 1:56 - 2:06
+BBC World Service programme Digital Planet met up with project organizer, Maya Worman to disucuss the importance of keeping election free from interference.
+
+K 2:07 - 2:28
+Any attempt to manipulate or interfere with election infrastrucures - the machines or the information sets that determine who is eligible to vote and where - undermines right to vote. And it puts burdens on voters and it imapcts on public confidence, and you know high-profile elections especially like that on coming up, heighten the types of risks that we’re talking about.
+
